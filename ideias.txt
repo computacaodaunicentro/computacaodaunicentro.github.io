@@ -1,0 +1,24 @@
+departamento [parte da estrutura da universidade: departamento, setor, campus, instituição]
+
+pequeno manual do cientista [como utilizar github, latex, gravar vídeos, linux, etc]
+
+dce [estudantes que fazem parte]
+
+minha biblioteca [
+if (Você possui cadastro no site minhabiblioteca.com.br?) {
+    acessar aqui [link com ícone minhabiblioteca]
+} else {
+    cadastrar aqui [link]
+}
+
+banco de ideias [tcc, projetos, etc]
+
+eventos [jai]
+
+parcerias [empresas]
+
+links:
+unicentro
+moodle
+aluno online
+canal telegram [apenas recebimento notícias, sem demais postagens]
